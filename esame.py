@@ -176,6 +176,6 @@ def daily_stats(time_series):
     return jah
 
 
-rastafari = daily_stats(time_series)
+#rastafari = daily_stats(time_series)
 
 #print('\n\n\nmin max media:',rastafari)
